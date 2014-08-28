@@ -1,0 +1,330 @@
+Key	Korean	English	Traditional Chinese	Simplified Chinese	Japanese	Russian	French	Spanish	
+									
+// General	// General	// General	// General	// General	// General	// General	// General	// General	
+    app_name	모닝키트	Morning Kit	早安工具	早安工具	モーニング	Утренний Kомплект	Kit Matin 	Kit Mañana 	
+    ok	확인	OK	確認	确认	確認	OK	Dáccord 	Okay 	
+    cancel	취소	Cancel	取消	取消	キャンセル	Отменить	annuler 	Cancelar 	
+    loading	로딩 중...	Loading…	載入中…	载入中…	読み込み中…	Загрузка…	Chargement en cours ... 	Cargando ... 	
+    default_string	기본	Default	預設	默认	基本設定	По умолчанию	Par défaut 	Por defecto 	
+    yes	예	Yes	是	是	はい	Да	oui 	Sí 	
+    no	아니오	No	否	否	いいえ	Нет	non	No 	
+    no_network_connection	네트워크 접속불가	No Network Connection	连不上网	现在没有网络连接	ネットワークに接続できません	Нет связи	Pas de connexion réseau 	Sin conexión de red 	
+    searching	검색 중...	Searching…	搜索中…	搜索中…	保存中…	Поиск…	Recherche en cours ... 	Buscando ... 	
+    done	완료	Done	完成	完成	完了	Готово	Terminé 	Terminado 	
+    open	열기	open	打開	打开	オープン	Открыть	ouvert 	abierta 	
+									
+// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	
+    add_an_alarm	알람 추가	Add Alarm	新增鬧鐘	添加闹钟	アラームを追加	Добавить будильник	Ajouter une alarme 	Añadir alarma 	
+    edit_alarm	알람 편집	Edit Alarm	重設鬧鐘	编辑闹钟	アラームを編集	Изменить будильник	Modifier alarme 	Editar alarma 	
+    alarm_default_label	알람	Alarm	鬧鐘	闹钟	アラーム	Будильник	alarme 	Alarma 	
+    alarm_am	오전	AM	上午	上午	午前	AM	AM 	AM 	
+    alarm_pm	오후	PM	下午	下午	午後	PM	PM 	PM 	
+    alarm_snooze_stirng	9분 뒤 알람이 다시 울립니다	Your alarm will start again in 9 minutes	9分鐘後鬧鐘提醒	9分钟后闹钟重新启动	9分後、 アラームが再び鳴ります。	Ваш будильник возобновит работy через 9 минут	Votre alarme recommencer en 9 minutes 	Su alarma se iniciará de nuevo en 9 minutos 	
+									
+// Alarm Toaster 	// Alarm Toaster 	// Alarm Toaster 	// Alarm Toaster 	// Alarm Toaster 	// Alarm Toaster 	// Alarm Toaster 	// Alarm Toaster 	// Alarm Toaster 	
+    alarm_set_toast_part1		Alarm set for 	此鬧鐘設定為現在起	现在距离您设定的时间还有		Установка будильника для 	Alarme programmée pour 	Programar la alarma para 	
+    alarm_set_toast_part2	후에 알람이 울립니다	from now			後、 アラームが鳴ります。	с этого времени	à partir de maintenant 	a partir de ahora 	
+    alarm_day	일 	 day 	天	天	日	 день 	jour 	día 	
+    alarm_days	일 	 days 	天	天	日	 дни 	journées 	días 	
+    alarm_hour	시간	 hour 	小時	小时	時間	 час 	heure 	horas 	
+    alarm_hours	시간	 hours 	小時	小时	時間	 часы 	heures 	horas 	
+    alarm_minute	분	 minute 	分鐘	分钟	分	 минута 	minute 	minutos 	
+    alarm_minutes	분	 minutes 	分鐘	分钟	分	 минуты 	minutes	minutos 	
+									
+// Alarm Preference 	// Alarm Preference 	// Alarm Preference 	// Alarm Preference 	// Alarm Preference 	// Alarm Preference 	// Alarm Preference 	// Alarm Preference 	// Alarm Preference 	
+    alarm_pref_repeat	반복	Repeat	重覆	重复	繰り返し	Повторить	Répétez 	Repita 	
+    alarm_pref_sound_type	사운드	Sound	聲音	声音	サウンド	Звук	son 	Sonido 	
+    alarm_pref_label	이름	Label	標籤	标签	ラベル(名)	Пометка	étiquette 	Etiqueta 	
+    alarm_pref_repeat_never	안 함	Never	永不	永不	しない	Никогда	jamais 	nunca 	
+    alarm_pref_repeat_weekdays	주중	Weekdays	工作日	工作日	平日	Будни	jours de la semaine 	Días de la semana 	
+    alarm_pref_repeat_weekends	주말	Weekends	週末	周末	週末	Выходные	week-end 	Los fines de semana 	
+    alarm_pref_repeat_everyday	매일	Everyday	每日	每天	毎日	Каждый день	quotidien 	Todos los días 	
+    alarm_pref_pick_your_favorite_sond	노래 선택	Pick a song	選取歌曲	选取一首歌曲	音楽を選択	Выбрать песню	Choisissez une chanson 	Elija una canción 	
+									
+// Repeat 	// Repeat 	// Repeat 	// Repeat 	// Repeat 	// Repeat 	// Repeat 	// Repeat 	// Repeat 	
+    every_monday	월요일마다	Every Monday	每週一	每周一	毎月曜日	Каждый Понедельник	Tous les lundis 	Todos los lunes 	
+    every_tuesday	화요일마다	Every Tuesday	每週二	每周二	毎火曜日	Каждый Вторник	Tous les mardis 	Todos los martes 	
+    every_wednesday	수요일마다	Every Wednesday	每週三	每周三	毎水曜日	Каждую Среду	Tous les mercredis 	Todos los miércoles 	
+    every_thursday	목요일마다	Every Thursday	每週四	每周四	毎木曜日	Каждый Четверг	Tous les jeudis 	Todos los jueves 	
+    every_friday	금요일마다	Every Friday	每週五	每周五	毎金曜日	Каждую Пятницу	chaque vendredi 	Todos los viernes 	
+    every_saturday	토요일마다	Every Saturday	每週六	每周六	毎土曜日	Каждую Субботу	Tous les samedis 	Todos los sábados 	
+    every_sunday	일요일마다	Every Sunday	每週日	每周日	毎日曜日	Каждое Воскресенье	Tous les dimanches 	Todos los domingos 	
+    monday	월	Mon	周一	周一	月	По	lundi 	Lunes 	
+    tuesday	화	Tue	周二	周二	火	Вт	mardi 	martes	
+    wednesday	수	Wed	周三	周三	水	Ср	mercredi 	Miércoles 	
+    thursday	목	Thu	周四	周四	木	Чт	jeudi 	Jueves 	
+    friday	금	Fri	周五	周五	金	Пт	vendredi 	Viernes 	
+    saturday	토	Sat	周六	周六	土	Сб	samedi 	Sabado	
+    sunday	일	Sun	周日	周日	日	Вc	dimanche	Domingo	
+    monday_short	월	M	一	一	月	П	L	L	
+    tuesday_short	화	T	二	二	火	В	M	M 	
+    wednesday_short	수	W	三	三	水	С	M	M 	
+    thursday_short	목	T	四	四	木	Ч	J	J	
+    friday_short	금	F	五	五	金	П	V	V 	
+    saturday_short	토	S	六	六	土	С	S	S 	
+    sunday_short	일	S	日	日	日	В	D	D	
+									
+// Alarm Wake 	// Alarm Wake 	// Alarm Wake 	// Alarm Wake 	// Alarm Wake 	// Alarm Wake 	// Alarm Wake 	// Alarm Wake 	// Alarm Wake 	
+    alarm_wake_snooze	다시 알림	Snooze	小睡	小睡	スヌーズ	Позже	Répéter	Reposo  	
+    alarm_wake_dismiss	알람 끔	Dismiss	關閉鬧鐘	关闭闹钟	アラームオフ	Отклонить	rejeter	Descartar 	
+									
+// Alarm Sound 	// Alarm Sound 	// Alarm Sound 	// Alarm Sound 	// Alarm Sound 	// Alarm Sound 	// Alarm Sound 	// Alarm Sound 	// Alarm Sound 	
+    alarm_sound_string_none	무음	Mute	靜音	静音	無音	Oтключение	muet 	Silencio  	
+    alarm_sound_string_vibrate	진동	Vibrate	震動	振动	振動	Вибрация	Vibreur 	Vibrar 	
+    alarm_sound_string_ringtones	벨소리	Ringtone	鈴聲	铃声	べル	Рингтон	sonnerie 	tono 	
+    alarm_sound_string_music	음악	Music	音樂	音乐	音樂	Музыка	musique 	Música 	
+    alarm_ocean_short	Ocean	Ocean	Ocean	Ocean	Ocean	Oкеан	océan 	Océano  	
+    alarm_ride	Ride	Ride	Ride	Ride	Ride	Езда	tour	Paseo 	
+									
+// Widget 	// Widget 	// Widget 	// Widget 	// Widget 	// Widget 	// Widget 	// Widget 	// Widget 	
+    world_clock	세계 시계	World Clock	世界時鐘	世界时钟	世界時計	Мировые\nчасы	Horloge mondiale 	Reloj Mundial 	
+    flickr	플리커	Flickr	Flickr	Flickr	フリッカー	Фликр	Flickr 	parpadear 	
+    memo	메모	Memo	備忘錄	备忘录	メモ	Заметка	note 	Memo 	
+    date_calculator	날짜 계산	Date(enter)Countdown	日期倒數	日期倒数	日付計算	дата\nобратного отсчета	Date (entrer) Compte à rebours 	Fecha (entrar) Cuenta atrás 	
+    weather	날씨	Weather	天氣	天气	天気	Погода	temps 	El tiempo 	
+    calendar	달력	Date	日曆	日历	カレンダー	Календарь	date 	Fecha 	
+    exchange_rate	환율	Exchange(enter)Rates	匯率	汇率	為替レート	Oбменный\nкурс	Change (entrer) Tarifs 	Tipo (entrar) Precios 	
+    saying	명언	Quotes	語錄	语录	名言	Фразы	citations 	Cotizaciones 	
+    reminder	일정	Calendar	日程管理	日程管理	スケジュール	Напоминание	calendrier	Calendario 	
+									
+// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	
+    calendar_lunar_calendar	음력 달력 추가	Lunar Calendar	農曆	农历	陰曆	Лунный календарь	Calendrier Lunaire 	Calendario Lunar 	
+    calendar_monday	월요일	MONDAY	星期一	星期一	月曜日	ПОНЕДЕЛЬНИК	lundi 	Lunes 	
+    calendar_tuesday	화요일	TUESDAY	星期二	星期二	火曜日	ВТОРНИК	mardi 	Martes 	
+    calendar_wednesday	수요일	WEDNESDAY	星期三	星期三	水曜日	СРЕДА	mercredi 	Miércoles 	
+    calendar_thursday	목요일	THURSDAY	星期四	星期四	木曜日	ЧЕТВЕРГ	jeudi 	Jueves 	
+    calendar_friday	금요일	FRIDAY	星期五	星期五	金曜日	ПЯТНИЦА	vendredi 	Viernes 	
+    calendar_saturday	토요일	SATURDAY	星期六	星期六	金曜日	СУББОТА	samedi 	Sábado 	
+    calendar_sunday	일요일	SUNDAY	星期日	星期日	日曜日	ВОСКРЕСЕНЬЕ	dimanche	Domingo 	
+									
+// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	
+    flickr_not_available_flickr_url	검색 조건과 일치하는 내용을 찾을 수 없습니다	No Results Found	無此搜尋結果	无此关键词	このキーワードに一致する結果がありません。	Результаты не найдены	Aucun résultat trouvé 	No se encontraron resultados 	
+    flickr_search_images	이미지 검색	Search for Image	搜尋圖片	搜索图片	イメージを検索	Поиск изображений	Rechercher une image 	Buscar imagen 	
+    flickr_use_gray_scale	흑백효과 사용	Use Grayscale	使用灰階	使用灰度	グレースケールを使用	Использовать серый оттенок	utilisation des niveaux de gris 	uso de escala de grises 	
+    flickr_save_to_library_guide	사진을 라이브러리에 저장합니다	This photo will be saved in your library	此圖片將儲存於相簿中	照片将会保存于相册	写真をライブラリに保存します。	Это фото будет сохранена в вашей библиотеке	Cette photo sera enregistrée dans votre bibliothèque 	Esta foto se guardará en la biblioteca 	
+    flickr_photo_saved	사진이 저장되었습니다	The Photo Saved	圖片已儲存	照片已保存	写真を保存しました。	Это фото сохранено	La photo enregistrée 	La foto guardada 	
+    flickr_normal_quality	일반화질	Standard	普通	普通	標準画質	Стандартный	standard 	Estándar 	
+    flickr_high_quality	고화질	High Resolution	高清晰	高清晰	高画質	Высокое качество	haute Résolution 	alta Resolución 	
+    flickr_error_access_server	플리커 서버에 접속할 수 없습니다	Error in access to flickr server	在Flickr上無法連接到服務器	在Flickr上无法连接到服务器	フリッカーのサーバーに接続できません	Error in access to flickr server	Erreur dans l'accès au serveur flickr	Error en el acceso al servidor de parpadeo  	
+									
+// Date Countdown 	// Date Countdown 	// Date Countdown 	// Date Countdown 	// Date Countdown 	// Date Countdown 	// Date Countdown 	// Date Countdown 	// Date Countdown 	
+    date_countdown_date	날짜	Date	日期	日期	日付	дата	date 	Fecha 	
+    date_countdown_countdown	계산	Countdown	倒數	倒数	計算	обратного отсчета	compte à rebours 	Cuenta atrás 	
+    date_countdown_new_year	새해	New Year	元旦	元旦	元日	Новый год	nouvelle année 	Año Nuevo 	
+    date_countdown_write_a_title	이름	Label	標籤	标签	ラベル(名)	Пометка	étiquette 	Etiqueta 	
+    date_countdown_create_countdown	기념일을 설정해 주세요	Create a Countdown	建立倒數日	创建倒数日	基準日設定	Создать обратный отсчет	Créez un compte à rebours 	Crear una cuenta atrás 	
+									
+// Weather 	// Weather 	// Weather 	// Weather 	// Weather 	// Weather 	// Weather 	// Weather 	// Weather 	
+    weather_temperature_unit	온도 단위	Temperature Unit	溫度單位	温度单位	温度単位	Единицы измерения температуры	Unité de température 	Unidad de temperatura 	
+    weather_use_current_location	현재 위치 사용	Use Your Current Location	使用目前位置	使用您的当前位置	現在の位置情報を利用します。	Использовать текущее местоположение	Utilisez votre position actuelle 	Utilizar la ubicación actual 	
+    weather_current_location	현재 위치	Current Location	目前位置	城市搜索(英文)	現存地	Текущее местоположение	Situation actuelle 	Ubicación actual 	
+    weather_search_city	도시 검색 (영어)	Search for City (in English)	城市搜索（英文）	当前位置	都市検索(英語で)	Поиск города (по-английски)	Recherche de ville (en anglais) 	Buscar Ciudad(en Inglés) 	
+    display_local_time	현지 시간 표시	Display Local Time	顯示本地時間	显示本地时间	現地時間を表示する	Отображения местного времени	Afficher Heure locale 	Mostrar Hora Local 	
+    weather_choose_your_city	도시를 선택하세요	Choose your City	選擇一個城市	选择一个城市	都市をご選択ください。	Выбор города	Choisissez votre ville	Elige tu ciudad 	
+									
+// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	
+    world_clock_clock_type_text	시계 타입	Clock Type	時鐘形式	时钟显示	時計タイプ	Тип часов	Type d'horloge	Tipo de reloj 	
+    world_clock_digital	디지털	Digital	數字	数字	デジタル	Цифровой	numérique	digital 	
+    world_clock_analog	아날로그	Analog	指針	指针	アナログ	Аналоговый	analogique	analógico 	
+    world_clock_use_24_hour_format	24시간제 사용	Use 24-hour format	用24小時製	用24小时制	24時間形式を使用	Использовать 24-часовой формат	Utilisez le format 24 heures	Utilice el formato de 24 horas 	
+    world_clock_today	오늘	Today	今天	今天	今日	Сегодня	aujourd'hui	Hoy 	
+    world_clock_tomorrow	내일	Tomorrow	明天	明天	明日	Завтра	demain	Mañana 	
+    world_clock_yesterday	어제	Yesterday	昨天	昨天	昨日	Вчера	hier	Ayer 	
+									
+// Exchange Rate 	// Exchange Rate 	// Exchange Rate 	// Exchange Rate 	// Exchange Rate 	// Exchange Rate 	// Exchange Rate 	// Exchange Rate 	// Exchange Rate 	
+    exchange_rate_switch_countries	기준 환율 변경	Swap currencies	交換貨幣	交换货币	基準為替レートを変更	Обменять валюту	Les monnaies	monedas de swap 	
+    exchange_rate_main_currencies	주요 환율	Top currencies	常用貨幣	常用货币	主な為替レート	Основные валюты	Meilleurs devises	Top monedas 	
+    exchange_rate_all_currencies	모든 환율	All currencies	全部貨幣	所有货币	すべての為替レート	Все валюты	toutes les devises	todas las divisas 	
+									
+// Memo 	// Memo 	// Memo 	// Memo 	// Memo 	// Memo 	// Memo 	// Memo 	// Memo 	
+    memo_write_here	메모를 입력하세요	Write a memo	建立備忘	输入备忘录	ここにメモを書いてください。	Написать записку	Donnez une note	Escribir una nota 	
+    memo_write_here_modal	이곳에 입력하세요	Write here	從這裡開始寫	由此输入	ここに書いてください。	Писать здесь	Ecrivez ici	Escribe aquí 	
+    memo_end_of_page_halt	입력 범위 초과입니다	End-of-Page	頁尾	结尾	入力範囲を超え	Страницы	Fin de page	Fin de página 	
+									
+// Quotes 	// Quotes 	// Quotes 	// Quotes 	// Quotes 	// Quotes 	// Quotes 	// Quotes 	// Quotes 	
+    quotes_copy	복사	Copy	拷貝	拷贝	コピー	Скопировать	copier	Copia 	
+									
+// Reminder 	// Reminder 	// Reminder 	// Reminder 	// Reminder 	// Reminder 	// Reminder 	// Reminder 	// Reminder 	
+    reminder_no_schedule	오늘은 일정이 없습니다	No events today	没有行事歷事件	无事件	本日のイベントはありません	Нет сегодня событий	Aucun événement aujourd'hui 	No hay eventos hoy 	
+    reminder_birthday	생일	Birthday	生日	生日	誕生日	День рождения	anniversaire 	Cumpleaños 	
+    reminder_event	일정	Event	事件	事件	イベント	Событие	événement 	Evento 	
+    reminder_all_day	하루 종일	All-Day	整天	全天	終日	Весь День	Tous les jours 	Todo el día 	
+									
+// Configure_Info 	// Configure_Info 	// Configure_Info 	// Configure_Info 	// Configure_Info 	// Configure_Info 	// Configure_Info 	// Configure_Info 	// Configure_Info 	
+    info_store	상점	Store	商店	商店	ストア	Хранить	magasin 	tienda 	
+    info_help	도움말	Help	協助	帮助	ヘルプ	Помощь	aider 	Ayuda 	
+    info_credit	크레디트	Credits	制作團隊	制作团队	クレジット	Благодарность	Crédits 	Créditos 	
+    info_yooii_connector	유이 커넥터	Yooii Connector	Yooii Connector	Yooii Connector	ユーイのコネクタ	Yooii Connector	Yooii connecteur 	Yooii Conector 	
+									
+// Tab 	// Tab 	// Tab 	// Tab 	// Tab 	// Tab 	// Tab 	// Tab 	// Tab 	
+    tab_widget	패널	PANEL	面板	面板	パネル	Панель	PANNEAU 	PANEL 	
+    tab_alarm	알람	ALARM	鬧鐘	闹钟	アラーム	Будильник	ALARME 	ALARMA 	
+    tab_setting	설정	Setting	設定	设置	設定	Настройка	Cadre 	ajuste 	
+    tab_theme	테마/언어	THEME	主題/語言	主题/语言	テーマ/言語	Тема	THÈME 	TEMA 	
+    tab_info	정보	INFO	資訊	信息	情報	Информация	INFO	INFO 	
+									
+// Setting (General) 	// Setting (General) 	// Setting (General) 	// Setting (General) 	// Setting (General) 	// Setting (General) 	// Setting (General) 	// Setting (General) 	// Setting (General) 	
+    setting_language	언어 / Language	Language	語言 / Language	语言 / Language	言語 / Language	Язык / Language	angue	Idioma 	
+    setting_widgettable	패널 배열	Panel Matrix	面板方陣	面板方阵	パネル配列	Матрица панели	panneau Matrice	Matrix Panel 	
+    setting_theme_color	배경 테마	Theme	主題背景	主题背景	背景テーマ	Тема	thème	tema 	
+    setting_theme_color_skyblue	하늘 (하늘색)	Celestial (Sky blue)	天上 (天空藍)	天上（天空蓝）	空 （空色）	Небесный (Голубой)	Céleste (bleu ciel)	Celeste (Celeste) 	
+    setting_theme_color_classic_gray	슬레이트 (회색)	Slate (Gray)	石板 (岩石灰)	石板（岩石灰)	スレート （灰色）	Шиферний (Серый)	Slate (Gray)	Pizarra (gris) 	
+    setting_theme_color_classic_white	모던 (흰색)	Modernity (Chic white)	摩登 (時尚白)	摩登（典雅白）	モダニティ （白）	Модерний (Шикарний белые)	Modernité (Chic blanc)	Modernidad (blanco Chic) 	
+    setting_theme_mirror	투영 (미러모드)	Reflection (Mirror)	投影 (鏡子)	投影（镜子）	投影 （ミラーモード）	Oтражений (Зеркальный)	Réflexion (miroir)	Reflexión (espejo) 	
+    setting_theme_scenery	고요함 (투명모드)	Tranquility (Transparent)	寧靜 (透明)	宁静（透明）	穏やか （透過モード）	Спокойствие (Прозрачный)	Tranquillité (Transparent)	Tranquilidad (transparente) 	
+    setting_theme_photo	사진	Photo	照片	照片	写真	Фото	photo	foto 	
+    setting_theme_photo_portrait	사진 (세로모드)	Photo (Portrait)	照片（縱向)	照片（纵向）	写真（縦画面モード）	Фото (Портрет)	Photos (Portrait)	Foto (Retrato) 	
+    setting_theme_photo_landscape	사진 (가로모드)	Photo (Landscape)	照片（橫向）	照片（横向）	写真（横画面モード）	Фото (Пейзаж)	Photo (Paysage)	Foto (Paisaje)	
+									
+// Setting (Language) 	// Setting (Language) 	// Setting (Language) 	// Setting (Language) 	// Setting (Language) 	// Setting (Language) 	// Setting (Language) 	// Configuration (Language)	// Configuración (Lenguaje) 	
+setting_language_korean	한국어	한국어	한국어	한국어	한국어	한국어	한국어	한국어 	
+setting_language_english	English	English	English	English	English	English	Anglais	Inglés 	
+setting_language_japanese	日本語	日本語	日本語	日本語	日本語	日本語	日本語	日本語 	
+setting_language_simplified_chinese	简体中文	简体中文	简体中文	简体中文	简体中文	简体中文	简体中文	简体 中文 	
+setting_language_traditional_chinese	繁體中文	繁體中文	繁體中文	繁體中文	繁體中文	繁體中文	繁體中文	繁體 中文 	
+setting_language_russian	Русский	Русский	Русский	Русский	Русский	Русский	Русский		
+setting_language_indonesian	(인도네시아어 본토 표기 필요)	(인도네시아어 본토 표기 필요)	(인도네시아어 본토 표기 필요)	(인도네시아어 본토 표기 필요)	(인도네시아어 본토 표기 필요)	(인도네시아어 본토 표기 필요)	(인도네시아어 본토 표기 필요)		
+									
+// Setting (Effect sound) 	// Setting (Effect sound) 	// Setting (Effect sound) 	// Setting (Effect sound) 	// Setting (Effect sound) 	// Setting (Effect sound) 	// Setting (Effect sound) 	// Setting (Effect sound) 	// Setting (Effect sound) 	
+    setting_effect_sound	효과음	Sound Effects	聲音特效	声音特效	効果音	Звуковой эффект	les effets sonores	Efectos de sonido 	
+    setting_effect_sound_on	켜기	On	開	开	オン	Включенный	En	on 	
+    setting_effect_sound_off	끄기	Off	關	关	オフ	Выключенный	off	off 	
+									
+// Tutorial 	// Tutorial 	// Tutorial 	// Tutorial 	// Tutorial 	// Tutorial 	// Tutorial 	// Tutorial 	// Tutorial 	
+    tutorial_select_theme	배경화면 선택	Select your Morning Theme	請選擇一個主題背景	请选择一个主题背景	壁紙を選択	Выбрать утренний комплект	Choisissez votre thème Matin 	Seleccione su tema de la mañana 	
+									
+// Tutorial1 - Description 									
+    tutorial1_label1	패널을 설정하거나 재배치 할 수 있습니다	You can customize Panels	您可以重新安排面板	您可以重新安排面板	パネルを編集したり、再配置されます	Вы можете настроить панель	Vous pouvez personnaliser les panneaux 	Puede personalizar los paneles 	
+    tutorial1_label2	알람을 추가하거나 편집할 수 있습니다	You can add or edit Alarms	您可以添加或編輯鬧	您可以添加或编辑闹钟	アラームを追加したり、編集されます	Вы можете добавить или изменить будильник	Vous pouvez ajouter ou modifier des alarmes 	Puede agregar o editar Alarmas 	
+    tutorial1_label3	밀어서 알람 삭제	Swipe to delete Alarms	滑動刪除鬧鐘	滑动删除闹钟	アラームをスワイプで削除	Проведите пальцем по экрану чтобы удалить будильники	Glissez pour supprimer les alarmes 	Pase eliminar Alarmas 	
+    tutorial1_label4	새로고침	Refresh	刷新	刷新	更新	Обновить	rafraîchir 	Actualizar 	
+    tutorial1_label5	설정	Settings	設定	设置	設定	Настройка	paramètres 	Ajustes 	
+    tutorial1_tap_screen	화면을 터치해 주세요	Tap the screen	點擊屏幕	点击屏幕	画面をタップ	Коснитесь экрана	Appuyez sur l'écran 	Pulse en la pantalla 	
+    tutorial1_skip_tutorial	튜토리얼 건너뛰기	Skip Tutorial	跳過教程	跳过教程	チュートリアルをスキップ	Пропустить учебник	Passer Tutoriel 	Saltar Tutorial 	
+									
+// Unlock 	// Unlock 	// Unlock 	// Unlock 	// Unlock 	// Unlock 	// Unlock 	// Unlock 	// Unlock 	
+    unlock_notice	알림	NOTICE	公告	公告	お知らせ	ВНИМАНИЕ	AVIS 	AVISO 	
+    unlock_unlocked	사용가능	Unlocked	解鎖	解锁	使用可能	Разблокирован	Débloqué 	desbloqueado 	
+    unlock_description	기능을 추가하는 다양한 방법들이 있습니다.물론 무료로도 가능합니다!	There are many ways to unlock this feature. Find a way to enjoy it for free!	找到更多方法免費解鎖並享受新功能!	找到更多方法免费解锁并享受新功能!	機能を追加するさまざまな方法がありますが無料でできます。	Есть много способов для разблокировкий это функции. найди способ насладиться егю бесплатно!	Il existe de nombreuses façons de débloquer cette fonctionnalité. Trouver une façon pour la profiter gratuitement! 	Hay muchas formas de desbloquear esta característica. Encuentre una manera de disfrutar de forma gratuita! 	
+    unlock_description_highlight	기능을 추가	unlock	免費解鎖	免费解锁	機能を追加	разблокировкий	débloquer 	desbloquear 	
+    unlock_everything	$1.99면 모닝키트의 모든 기능을 사용하실 수 있습니다!	Unlock everything for only $1.99	全部解鎖只要$1.99	全部解锁只要$1.99	$1.99をお支払いいただくとモーニングキットのすべての機能を使用できます！	Разблокировать всё всего за 1.99$	Tout débloquer pour seulement 1.99 $ 	Desbloquear todo por sólo $ 1.99 	
+    unlock_everything_highlight	모든 기능	everything	全部	全部	すべて	всё	tous 	todo 	
+    unlock_only_this	$0.99면 이 기능을 사용하실 수 있습니다	Unlock for $0.99	解鎖只要$0.99	解锁只要$0.99	$0.99をお支払いいただくと,この機能を使用できます。	Разблокировать за 0.99$	Débloquez pour 0,99 $	Desbloquear $ 0.99 	
+    unlock_review	리뷰를 남겨주시면 이 기능을 무료로 사용하실 수 있습니다	Write a Review and unlock it for free!	為此APP評價以獲得此項功能免費解鎖。我們將繼續提供好用新功能!請給我們5顆星!	为此APP评价以获得此项功能免费解锁。我们将继续提供好用新功能!请给我们5颗星!	あなたの評価は貴重なご意見です。レビューを残せば,この機能を使用できます。	Написать отзыв и разблокировать бесплатно!	Écrire un avis et déverrouiller gratuitement!	Comparte tu experiencia y desbloquear de forma gratuita! 	
+    unlock_review_highlight	리뷰	Review	評價	评价	レビュー	отзыв	examen	revisión 	
+    unlock_connector	유이 커넥터에 가입하시면 이 기능을 무료로 사용하실 수 있습니다	Enable Yooii Connector and unlock it for free!	註冊Yooii Connector並獲得此項功能免費解鎖	注册Yooii Connector并获得此项功能免费解锁	コネクタに登録していただくと, この機能を使用できます。	Активизировать Yooii Connector и разблакировка бесплатная!	Activer Yooii connecteur et déverrouiller gratuitement!	Habilitar Yooii Conector y desbloquear de forma gratuita! 	
+    unlock_connector_highlight	유이 커넥터	Yooii Connector	Yooii Connector	Yooii Connector	コネクタ	Yooii Connector	Yooii connecteur	Yooii Conector 	
+    unlock_use_morning	모닝키트를 10회 사용하시면 이 기능을 무료로 사용할 수 있습니다	Use Morning Kit 10 times and unlock it for free!	使用早安工具10次並獲得此項功能免費解鎖	使用早安工具10次并获得此项功能免费解锁	モーニングキットを10回使用すると,この機能を使用できます。	Используйте Утренний комплект 10 раз и разблакировка бесплатная!	Kit utilisation Matin 10 fois et déverrouiller gratuitement!	Uso de la mañana Kit 10 veces y desbloquear de forma gratuita! 	
+    unlock_use_morning_highlight	10회	10 times	10	10	10回	10 раз	10 heures	10 veces 	
+    unlock_facebook	Like 버튼을 눌러 주시면 이 기능을 무료로 사용하실 수 있습니다	Like us on Facebook and unlock it for free!	在Facebook點贊並獲得此項功能免費解鎖	在Facebook点赞并获得此项功能免费解锁	いいねボタンを押していただくと,この機能を使用できます。	Отметьте значком \“Мне нравится\” нашу страницу на Фейсбуке и разблокируйте программу б есплатно	Aimez-nous sur Facebook et déverrouiller gratuitement!	Al igual que nosotros en Facebook y desbloquear de forma gratuita! 	
+    unlock_facebook_highlight	Like	Like	贊	赞	いいねボタン	\“Мне нравится\”	Aimer	Al igual que 	
+    unlock_twitter	Follow 해 주시면 이 기능을 무료로 사용하실 수 있습니다	Follow us on Twitter and unlock it for free!	在Twitter追踪我們並獲得此項功能免費解鎖	在Twitter追踪我们并获得此项功能免费解锁	フォローボタンを押していただくと,この機能を使用できます。	Следите за нами в Твиттере и  разблакировка бесплатная!	Suivez-nous sur Twitter et déverrouiller gratuitement!	Síguenos en Twitter y desbloquear de forma gratuita! 	
+    unlock_twitter_highlight	Follow	Follow	追踪	追踪	フォローボタン	Следите	suivre	siga 	
+									
+// Store 	// Store 	// Store 	// Store 	// Store 	// Store 	// Store 	// Store 	// Store 	
+    store_no_purchase_records	구매 기록이 없습니다	No purchase records	無購買記錄	无购买纪录	購入履歴がありません。	Нет данных о покупках	Pas de dossiers d'achat	No hay registros de compra 	
+    store_restore_purchases	구매한 기능 복원	Restore purchases	恢復購買	恢复购买	購入した機能の復元	Восстановить покупки	restaurer les achats	Restaurar compras 	
+    store_purchased	구매 완료	Purchased	已購買	已购买	購入完了	Приобретенные	restaurer	Restaurar 	
+    store_restore	복원	Restore	恢復	恢复	復元	Восстановить	acheté	comprado 	
+    store_restore_success_message	구매 복원 성공	All purchases are restored	恢復購買成功	恢复购买成功	購入復元に成功しました。	Все покупки были восстановлены	Tous les achats sont restaurés	Todas las compras se restauran 	
+    store_buy_full_version	풀버전을 구매해 주세요!	Buy the full version!	購買完整版!	购买完整版!	完全版購入	Купить полную версию!	Acheter la version complète!	Comprar la versión completa! 	
+    store_buy_full_version_description	알람 추가, 모든 기능과 패널, 테마를 사용하실 수 있습니다	Upgrade to unlock all Functions, Panels, and Themes	可以使用無限制鬧鈴數量、完整面板、全部功能和主題背景	可以使用无限制闹铃数量、完整面板、全部功能和主题背景	すべてのパネル、機能やテーマのロックを解除！	Обновить чтобы разблокировать все Функции, Панели и Темы	Mise à niveau pour débloquer toutes les fonctions, les panneaux et Thèmes	Actualiza a desbloquear todas las funciones, los paneles y Temas 	
+    store_tab_functions	기능	Functions	功能	功能	機能	Функции	fonctions	Funciones 	
+    store_tab_widgets	패널	Panels	面板	面板	パネル	Панели	panneaux	Paneles 	
+    store_tab_themes	테마	Themes	主題背景	主题背景	テーマ	Темы	thèmes	Temas 	
+    store_item_more_alarm_slots	알람 개수 추가	More alarm slots	增加鬧鈴數量	增加闹铃数量	アラーム設定数の増加	Дополнительные будиляники	Plusieurs fentes d'alarme	Más entradas de alarma 	
+    store_item_no_ads	광고 제거	No Ads	不顯示廣告	不显示广告	広告削除	Никакой\nрекламы	Aucune annonce	Sin publicidad 	
+    store_item_matrix	2 X 3 배열	2 X 3 Matrix	2X3工具欄	2X3工具栏	2 X 3 配列	2 X 3 матрица	Matrice 2 X 3	2 X 3 Matrix 	
+    store_item_widget_date_countdown	날짜 계산	Date(enter)Countdown	日期\n倒數	日期倒数	日付\n計算	дата\nобратного отсчета	Date (entrer) Compte à rebours 	Fecha (entrar) Cuenta atrás 	
+    store_item_widget_memo	메모	Memo	備忘錄	备忘录	メモ	Заметка	note 	Memo 	
+    store_item_photo_portrait	사진(enter)세로모드	Photo(enter)Portrait	照片\n縱向	照片\n纵向	写真\n縦画面	Фото\nПортрет	Photo (entrée) Portrait 	Foto (entrar) Retrato 	
+    store_item_photo_landscape	사진(enter)가로모드	Photo(enter)Landscape	照片\n橫向	照片\n横向	写真\n横画面	Фото\nПейзаж	Photo (entrée) Paysage 	Foto (entrar) Paisaje 	
+    store_item_skyblue	하늘(enter)(하늘색)	Celestial(enter)(Sky blue)	天上 (天空藍)	天上\n（天空蓝）	空\n(空色)	Небесный\n(Голубой)	Céleste (entrée) (bleu ciel) 	Celestial (enter) (Celeste) 	
+    store_item_classic_white	모던(enter)(흰색)	Modernity(enter)(Chic white)	摩登\n(時尚白)	摩登\n（典雅白）	モダニティ\n（白）	Модерний\n(Шикарний белые)	Modernité (entrée) (Chic blanc) 	Modernidad (enter) (Chic blanco) 	
+    store_item_water_lily	워터 릴리(디자인)	Water lily (Design)	睡蓮 （設計模式）	睡莲\n（设计模式）	睡蓮（デザイン）	Водяная лилия	Nénuphar (Design) 	Lirio de agua (Diseño) 	
+    store_item_popsicle	Popsicle	Popsicle	冰淇淋 （設計模式）	冰淇淋\n（设计模式）	Popsicle	Popsicle	Popsicle 	Paleta helada	
+									
+// Rate it 	// Rate it 	// Rate it 	// Rate it 	// Rate it 	// Rate it 	// Rate it 	// Rate it 	// Rate it 	
+    rate_it_contents	모닝키트 리뷰 부탁 드립니다.(enter)소중한 리뷰가 더 좋은 제품을 만드는데 도움이 됩니다! ^^	Please rate us 5 stars(enter)Without your support, we don\'t exist	給個好評吧！\n您的鼓勵會讓我們做出更好的產品！	给个好评吧！\n您的鼓励会让我们做出更好的产品！	%1$s レビューをお願いします。\nお客様のレビューは、より良い製品を作るのに役立ちます！^^	Оценить Утренний комплект сделать его лучше! Спасибо	S'il vous plaît nous évaluer étoiles sur 5 (entrer) Sans votre soutien, nous n'existons pas 	Por favor, tasa de 5 estrellas (entrar) Sin su apoyo, que no existen 	
+    rate_it_rate	평가하기	Rate	評論	评论	評価する	Оценка	taux 	Cambio 	
+    rate_it_no_thanks	나중에 하기	Later	稍後 	稍后 	後で	Оценить позже	plus tard 	Más tarde 	
+    rate_morning_kit	모닝키트 평가하기	Rate Morning Kit	評分早安工具	评分早安工具	モーニングキットを評価する	Оценить Утренний комплект	Kit taux Matin 	Kit Cambio Mañana 	
+									
+// More Information 	// More Information 	// More Information 	// More Information 	// More Information 	// More Information 	// More Information 	// More Information 	// More Information 	
+    more_information	모닝키트 정보	Morning Kit Info	早安工具資訊	早安工具信息	モーニングキットの情報	Утренний комплект Инфо	Matin Kit Infos 	Kit Mañana Info 	
+    more_information_yooii_studios	유이스튜디오	Yooii Studios	Yooii Studios	Yooii Studios	ユーイスタジオ	Yooii Studios	Yooii Studios 	Yooii estudios 	
+    more_information_morning_kit_help	모닝키트 도움말	Morning Kit Help	早安工具幫助	早安工具帮助	モーニングキットのヘルプ	Помощь с Утренним комплектом	Matin Kit Aide 	Kit Mañana Ayuda 	
+    more_information_version_info	버전	Version	軟件版本	软件版本	バージョン	Версия	version 	Versión 	
+    more_information_morning_kit_license	모닝키트 라이센스	Morning Kit License	早安工具許可證	早安工具许可证	モーニングキットのライセンス	Лицензия Утреннего комплекта	Matin Kit Licence 	Mañana Licencia Kit 	
+    more_information_license	라이센스	License	許可證	许可证	ライセンス	Лицензия 	licence	Licencia 	
+									
+// Alarm First On Notice 	// Alarm First On Notice 	// Alarm First On Notice 	// Alarm First On Notice 	// Alarm First On Notice 	// Alarm First On Notice 	// Alarm First On Notice 	// Alarm First On Notice 	// Alarm First On Notice 	
+    alarm_first_on_notice	[설정 -> 알림 -> 모닝키트](enter)(enter)모닝키트의 알림스타일을 \"알림\"으로, 사운드를 \"온\"으로 설정해주세요.(enter)(enter)진동모드에서는 알람이 울리지 않습니다. 진동모드를 해제하고 사용해 주세요.	[Settings -> Notifications -> Morning Kit](enter)(enter)Please set Alert Style to \"Alerts\", and turn on \"Sounds\".(enter)(enter)Alarm does not sound in vibration mode. Please turn off vibration.	[設置-> 通知-> 早安工具]\n\n請設置您的提醒樣式為“提醒”，並打開\"聲音\"。\n\n在震動模式下，鬧鐘鈴聲不工作 。使用鬧鐘時，請先解除振動模式。	[设置-> 通知-> 早安工具]\n\n请设置您的提醒样式为“提醒”，并打开\"声音\"。\n\n在震动模式下，闹钟铃声不工作 。使用闹钟时，请先解除振动模式。	[設定 -> 通知 -> モーニングキット]\n\nモーニングキットの通知スタイルをダイアログに、 サウンドをオンにしてご利用ください。\n\n振動モードではアラームが鳴りません。振動モードを解除してご利用ください。	[Настройки -> Центр уведомлений -> Утренний Комплект] Пожалуйста, установите стиль оповещения на \"Оповещения\" и включите \"Звуки\". Звуковой сигнал не звучит в режиме вибрации. Пожалуйста, отключите вибрацию.	. [Paramètres -> Notifications -> Kit Matin] (Entrée) (entrée) S'il vous plaît mettre Alerte style de \ "Alertes \", et tourner sur \ "Sons \" (entrée) (entrée) L'alarme ne sonne pas en mode vibration. S'il vous plaît désactiver les vibrations.	. [Configuración -> Notificaciones -> Kit mañana] (entrar) (entrar) Por favor, establece Alerta Estilo a \ "Alertas \", y encienda \ "Sonidos \" (enter) (entrar) La alarma no suena en el modo de vibración. Por favor, apague la vibración. 	
+									
+// Photo Theme 	// Photo Theme 	// Photo Theme 	// Photo Theme 	// Photo Theme 	// Photo Theme 	// Photo Theme 	// Photo Theme 	// Photo Theme 	
+    photo_theme_move_and_scale	이동 및 확대	Move and Scale	移動和縮放	移动和缩放	移動と拡大	Перемещать и масштабировать	Déplacer et Échelle	Mover y Escala 	
+    photo_theme_choose	선택	Choose	選擇	选择	選択	Выбрать	choisir	Elegir 	
+    photo_theme_first_open_notice	사진을 이동하고 확대해서 사진을 프레임보다 크게 맞추어 주세요.(enter)프레임보다 작게 설정될 경우 사진이 화면에 맞게 표시되지 않을 수 있습니다	Please resize the picture to fill the screen	請修改圖片尺寸以適應屏幕大小。	请修改图片尺寸以适应屏幕大小。	写真を移動し、拡大して写真をフレームよりも大きく合わせください。\nフレームよりも小さく設定すると、写真が画面に合わせて表示されないことがあります      	Чтобы заполнил весь экран, пожалуйста, измените размер изображения в соответствии с кадром	S'il vous plaît redimensionner l'image pour s'adapter à l'image de sorte qu'elle remplisse l'écran	Por favor, cambiar el tamaño de la imagen para ajustarse al marco de modo que llene la pantalla 	
+									
+// Android Only 	// Android Only 	// Android Only 	// Android Only 	// Android Only 	// Android Only 	// Android Only 	// Android Only 	// Android Only 	
+									
+// General 	// General 	// General 	// General 	// General 	// General 	// General 	// General 	// General 	
+    action_bar_up_button_main	메인	Main	主選單	主菜单	メイン	главный	principal	principal 	
+    store_item_full_version	풀버전	Full Version	完整版	完整版	フルバージョン	Полная версия	Version complète	Versión Completa 	
+									
+// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	// Alarm 	
+    alarm_set_for_less_than_1_minute	알람이 1분 내에 울립니다	Alarm set for less than 1 minute	鬧鈴不超過1分鐘	闹铃短于1分钟	1分以内にアラームが鳴ります	Сигнализация установлена ​​менее чем за 1 минуту	Alarme programmée pour moins de 1 minute	Fijar alarma por menos de 1 minuto 	
+    alarm_status_bar_icon	상태바에 알람 아이콘 표시	 Alarm icon on status bar 	顯示鬧鐘圖標	显示闹钟图标	アラームアイコンを表示	Показать Пиктограмма тревоги	Voir Icône d'alarme sur la barre d'état	Mostrar icono de alarma en la barra de estado 	
+									
+// Prefs 	// Prefs 	// Prefs 	// Prefs 	// Prefs 	// Prefs 	// Prefs 	// Prefs 	// Prefs 	
+    alarm_pref_volume	볼륨	Volume	音量	音量	音量	громкость	volume	Volumen 	
+									
+// Panel 									
+									
+// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	// Flickr 	
+    saving	저장 중…	Saving…	儲存中…	保存中…	保存中…	Сохранение…	Sauvegarde en cours ...	Guardando ... 	
+									
+// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	// World Clock 	
+    no_search_result	검색결과 없음	No Results Found	查無搜尋結果	无搜索结果	検索結果なし	Поиск не дал результатов	Aucun résultat trouvé	No se encontraron resultados 	
+									
+// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	// Calendar 	
+    calendar_select_calendars	캘린더 선택	Select Calendars	選擇日曆	选择日历	カレンダー選択	Выберите Календари	Sélectionnez Calendriers	Seleccione Calendarios 	
+									
+// Photo Album 	// Photo Album 	// Photo Album 	// Photo Album 	// Photo Album 	// Photo Album 	// Photo Album 	// Photo Album 	// Photo Album 	
+    photo_album	사진 앨범	Photo Frame	相框	相框	フォトフレーム	рамка для фотографий	Cadre photo	Marco de fotos 	
+    photo_album_no_image	사용가능한 이미지 없음	No image available	無照片	无照片	使用できるイメージなし	Фотографий нету	Aucune image disponible	No hay imagen disponible 	
+    photo_album_error_getting_photo	사진을 가져올 때 문제가 생겼습니다	Error occurred while getting photo from your smart device	獲取相片失敗	获取照片失败	写真を読み込む中に問題が生じました	Произошла ошибка при извлечении фото	Une erreur s'est produite lors de l'obtention photo	Error al obtener la foto 	
+    photo_album_label_refresh_time	리프레시 시간	Refresh Time	刷新時間	刷新时间	リフレッシュ時間	время обновления	Actualiser Temps	Tiempo de Recarga 	
+    photo_album_label_transition_type	전환 효과	Slideshow Type	切換方式	切换方式	アニメーションタイプ	Тип перехода	diaporama type	Presentación Tipo 	
+    photo_album_minute_hint	분	min	分	分	分	мин	min	min 	
+    photo_album_minute	분	min	分	分	分	мин	min	min 	
+    photo_album_second_hint	초	sec	秒	秒	秒	сек	seconde	seg 	
+    photo_album_second	초	sec	秒	秒	秒	сек	seconde	seg 	
+    photo_album_transition_none	없음	None	無	无	なし	ни один	aucun	Ninguno 	
+    photo_album_transition_alpha	페이드	Fade	淡入淡出	淡入淡出	フェード	исчезать	fondu	fundido 	
+    photo_album_load	로드	Load	載入	载入	読み込む	Выберите	charge	carga 	
+									
+// Panel - News Feed	// Panel - News Feed	// Panel - News Feed	// Panel - News Feed	// Panel - News Feed	// Panel - News Feed	// Panel - News Feed	// Panel - News Feed	// Panel - News Feed	
+news_feed	뉴스	News	新聞	新闻	ニュース	новости	nouvelles	Noticias 	
+news_feed_invalid_url	유효하지 않은 RSS	Invalid RSS	無效RSS	无效RSS	有効でないRSS	Введите RSS	invalide RSS	Inválido RSS 	
+news_feed_feed_unavailable	뉴스를 사용할 수 없습니다	News is not available now	暫無新聞	暂无新闻	ニュースが使用できません。	сброс	Nouvelles n'est pas disponible maintenant	Noticias no están disponibles ahora 	
+news_feed_url_dialog_title	RSS 주소 입력	Enter RSS URL	輸入RSS地址	输入RSS地址	RSSアドレスを入力してください。	Неверный RSS	Entrez URL du flux RSS	Introduzca RSS URL 	
+news_feed_url_dialog_reset	리셋	Reset	重設	重设	リセット	Новый недоступен сейчас	remettre	Restablecer 	
+									
+// Panel - Cat	// Panel - Cat	// Panel - Cat	// Panel - Cat	// Panel - Cat	// Panel - Cat	// Panel - Cat	// Panel - Cat	// Panel - Cat	
+cat	고양이	Cat	貓	猫	猫	кот	chat	Gato  	
+									
+// Theme 	// Theme 	// Theme 	// Theme 	// Theme 	// Theme 	// Theme 	// Theme 	// Theme 	
+    setting_theme_color_pastel_green	파스텔 그린	Pastel Green	淺綠	浅绿	パステルグリーン	Зеленый пастельный	Pastel vert	Pastel verde 	
+    setting_theme_color_cool_navy	쿨 네이비	Cool Navy	海藍	海蓝	クールネイビー	Прохладный темно-синий	Rafraîchir Marine	Enfriar la Marina 	
+    setting_theme_color_mint_pink	민트 핑크	Mint Pink	粉紅	粉红	ミント・ピンク	Монетный двор Розовый	Monnaie Rose	Mint Rosa 	
+									
+// Recommend 	// Recommend 	// Recommend 	// Recommend 	// Recommend 	// Recommend 	// Recommend 	// Recommend 	// Recommend 	
+    recommend_to_friends	친구에게 추천하기	Recommend Morning Kit to your friends	向朋友推薦早安工具	向朋友推荐早安工具	友達にこのアプリを薦める	Рекомендовать Утренний Kомплект друзьям	Recommander Kit Matin à vos amis	Recomendar mañana Kit a tus amigos 	
+    recommend_title	강력 추천!!	Check out this new app = Morning Kit, it's awesome!	強烈推薦！	强烈推荐！	強くおススメめ！	Настоятельно рекомендуем!	Recommande fortement!	Lo recomiendo encarecidamente! 	
+    recommend_description	당황하지 않고 클릭해서 다운받으면~ 끝!	Click the link and take it for a spin	點擊下載 :-)	点击下载 :-)	簡単にワンクリックでダウンロード！	Просто нажмите кнопку и скачать :-)	Il suffit de cliquer et télécharger: -)	Basta con hacer clic y descargar: -) 	
+    recommend_app_full_name	모닝키트	Morning Kit	早安工具	早安工具	モーニングキット	Утренний Kомплект	Kit Matin	Kit Mañana	
+									
+// Location	// Location	// Location	// Location	// Location	// Location	// Location	// Location	// Location	
+dialog_location_service_disabled_title	위치 서비스 비활성화됨	Location services disabled	關閉定位服務	关闭定位服务	位置情報サービスを無効化されています。	Адрес услуги отключены		Ubicación Servicios desactivados	번역이 없어서 구글 번역 돌림, 퀄리티는 괜찮은듯
+dialog_location_service_disabled_title	확인을 눌러 위치서비스를 활성화하세요	Click OK to enable location services	確認以開啟定位服務	点击确定开启定位服务	確認をクリックして位置情報サービスを活性化します。	Нажмите OK, чтобы включить службы определения местонахождения		Por favor, haga clic en Aceptar para activar los servicios de ubicación	번역이 없어서 구글 번역 돌림, 퀄리티는 괜찮은듯
