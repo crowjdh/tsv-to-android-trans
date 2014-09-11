@@ -336,7 +336,7 @@ public class Main {
 //			String prefix = "<?xml version=\"1.0\" encoding=\"utf-8\"?>" + "\n" + 
 //					"<resources xmlns:tools=\"http://schemas.android.com/tools\">" + "\n";
 			String prefix = "<?xml version=\"1.0\" encoding=\"utf-8\"?>" + "\n" + 
-					"<resources\">" + "\n";
+					"<resources>" + "\n";
 			StringBuilder builder = new StringBuilder(prefix);
 			for (Row item : values) {
 				if (item != null) {
